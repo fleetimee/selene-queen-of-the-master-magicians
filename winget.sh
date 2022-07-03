@@ -1,112 +1,174 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-01-10T13:23:34.223-00:00",
+	"CreationDate" : "2022-07-03T19:37:34.767-00:00",
 	"Sources" : 
 	[
 		{
 			"Packages" : 
 			[
 				{
-					"PackageIdentifier" : "Doist.Todoist"
+					"PackageIdentifier" : "M2Team.NanaZip",
+					"Version" : "1.2.252.0"
 				},
 				{
-					"PackageIdentifier" : "M2Team.NanaZip"
+					"PackageIdentifier" : "BraveSoftware.BraveBrowser",
+					"Version" : "103.1.40.109"
 				},
 				{
-					"PackageIdentifier" : "CPUID.CPU-Z"
+					"PackageIdentifier" : "CPUID.CPU-Z",
+					"Version" : "1.99"
 				},
 				{
-					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo.ShizukuEdition"
+					"PackageIdentifier" : "CPUID.HWMonitor",
+					"Version" : "1.45"
 				},
 				{
-					"PackageIdentifier" : "Discord.Discord"
+					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo.ShizukuEdition",
+					"Version" : "8.14.2"
 				},
 				{
-					"PackageIdentifier" : "Git.Git"
+					"PackageIdentifier" : "Discord.Discord",
+					"Version" : "1.0.9003"
 				},
 				{
-					"PackageIdentifier" : "Tonec.InternetDownloadManager"
+					"PackageIdentifier" : "Docker.DockerDesktop",
+					"Version" : "4.9.1"
 				},
 				{
-					"PackageIdentifier" : "CodecGuide.K-LiteCodecPack.Full"
+					"PackageIdentifier" : "Git.Git",
+					"Version" : "2.37.0"
 				},
 				{
-					"PackageIdentifier" : "LeNgocKhoa.Laragon"
+					"PackageIdentifier" : "Tonec.InternetDownloadManager",
+					"Version" : "6.40.11"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.Edge"
+					"PackageIdentifier" : "CodecGuide.K-LiteCodecPack.Full",
+					"Version" : "17.1.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+					"PackageIdentifier" : "LeNgocKhoa.Laragon",
+					"Version" : "5.0.0.210523"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+					"PackageIdentifier" : "Microsoft.Edge",
+					"Version" : "103.0.1264.44"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.Office"
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
+					"Version" : "103.0.1264.44"
 				},
 				{
-					"PackageIdentifier" : "Spotify.Spotify"
+					"PackageIdentifier" : "Microsoft.WindowsTerminal",
+					"Version" : "1.13.11432.0"
 				},
 				{
-					"PackageIdentifier" : "Valve.Steam"
+					"PackageIdentifier" : "Microsoft.Office",
+					"Version" : "16.0.15330.20196"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64"
+					"PackageIdentifier" : "Spotify.Spotify",
+					"Version" : "1.1.76.447.g11f432d8"
 				},
 				{
-					"PackageIdentifier" : "OpenJS.NodeJS"
+					"PackageIdentifier" : "Valve.Steam",
+					"Version" : "2.10.91.91"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2010Redist-x64"
+					"PackageIdentifier" : "JAMSoftware.TreeSize.Free",
+					"Version" : "4.5.3"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
+					"PackageIdentifier" : "Twilio.Authy",
+					"Version" : "2.2.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2012Redist-x86"
+					"PackageIdentifier" : "Heroku.HerokuCLI",
+					"Version" : "Unknown"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2008Redist-x64"
+					"PackageIdentifier" : "Insomnia.Insomnia",
+					"Version" : "2022.4.2"
 				},
 				{
-					"PackageIdentifier" : "Google.Drive"
+					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64",
+					"Version" : "12.0.40664.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2005Redist-x86"
+					"PackageIdentifier" : "Microsoft.VC++2010Redist-x64",
+					"Version" : "10.0.40219"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64",
+					"Version" : "14.29.30139.0"
 				},
 				{
-					"PackageIdentifier" : "univrsal.input-overlay"
+					"PackageIdentifier" : "Microsoft.VC++2012Redist-x86",
+					"Version" : "11.0.61030.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x86"
+					"PackageIdentifier" : "OpenJS.NodeJS.LTS",
+					"Version" : "16.15.1"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2008Redist-x86"
+					"PackageIdentifier" : "Logitech.GHUB",
+					"Version" : "2022.4.250563"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2013Redist-x86"
+					"PackageIdentifier" : "Grammarly.ForOffice",
+					"Version" : "6.8.263"
 				},
 				{
-					"PackageIdentifier" : "GoLang.Go"
+					"PackageIdentifier" : "Microsoft.VC++2008Redist-x64",
+					"Version" : "9.0.30729.6161"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.XNARedist"
+					"PackageIdentifier" : "Microsoft.VC++2005Redist-x86",
+					"Version" : "8.0.61001"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2010Redist-x86"
+					"PackageIdentifier" : "Microsoft.VisualStudioCode",
+					"Version" : "1.68.1"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2005Redist-x64"
+					"PackageIdentifier" : "TechPowerUp.GPU-Z",
+					"Version" : "2.46.0"
 				},
 				{
-					"PackageIdentifier" : "Python.Python.3"
+					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x86",
+					"Version" : "14.29.30139.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2012Redist-x64"
+					"PackageIdentifier" : "Microsoft.VC++2008Redist-x86",
+					"Version" : "9.0.30729.6161"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2013Redist-x86",
+					"Version" : "12.0.40664.0"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.PhysX",
+					"Version" : "9.21.0713"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.XNARedist",
+					"Version" : "4.0.30901.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2010Redist-x86",
+					"Version" : "10.0.40219"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2005Redist-x64",
+					"Version" : "8.0.61000"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3",
+					"Version" : "3.10.2150.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2012Redist-x64",
+					"Version" : "11.0.61030.0"
 				}
 			],
 			"SourceDetails" : 
@@ -118,5 +180,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.1.13405"
+	"WinGetVersion" : "1.2.11601"
 }
